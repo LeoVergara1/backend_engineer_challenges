@@ -1,3 +1,6 @@
 [submodule "applicationA"]
 	path = applicationA
 	url = git@github.com:LeoVergara1/applicationA.git
+[submodule "ApplicationB"]
+	path = ApplicationB
+	url = git@github.com:LeoVergara1/ApplicationB.git
