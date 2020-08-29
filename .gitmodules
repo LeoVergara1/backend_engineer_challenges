@@ -1,0 +1,3 @@
+[submodule "applicationA"]
+	path = applicationA
+	url = git@github.com:LeoVergara1/applicationA.git
